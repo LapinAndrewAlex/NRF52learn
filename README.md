@@ -1,0 +1,2 @@
+# NRF52learn
+study
